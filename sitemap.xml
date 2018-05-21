@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tsai-jimmy.github.io/categories/</loc>
+    <loc>http://tsai-jimmy.github.io/blog-jimmytsai/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tsai-jimmy.github.io/</loc>
+    <loc>http://tsai-jimmy.github.io/blog-jimmytsai/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tsai-jimmy.github.io/tags/</loc>
+    <loc>http://tsai-jimmy.github.io/blog-jimmytsai/tags/</loc>
     <priority>0</priority>
   </url>
   
